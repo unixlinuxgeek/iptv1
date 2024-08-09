@@ -6,6 +6,9 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTK.kz",КТК (1080p) [Not 24/7]
 https://vs847.vcdn.biz/e7b94206dc6d37f481f721a92a8e0d92_megogo/live/hls/b/700_2490/u_sid/0/o/100256731/rsid/e0173713-cb81-4f6b-bbf8-ddcfbbb7cab6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/46.235.84.201*asn/u_srvc/84416/u_did/web_P1i01uB8a7HN77E2s4Ky8hb7qyEg9hdR/type.live/chunklist-sid6169119090672703365-b2490000.m3u8
 
+#EXTINF:-1 tvg-id="ntk",НТК
+https://vs822.vcdn.biz/768976394b55c2a560ef9ceefeaa98ef_megogo/live/hls/b/700_2500/u_sid/0/o/138085041/rsid/b028b444-c20b-443b-b2dd-edea65245500/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/46.235.84.201*asn/u_srvc/84416/u_did/web_P1i01uB8a7HN77E2s4Ky8hb7qyEg9hdR/type.live/chunklist-sid4527435841599418151-b2999999.m3u8
+
 #EXTINF:0 group-title="National" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар
 https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
 
