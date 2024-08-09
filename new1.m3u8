@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Qazaqstan.kz",Qazaqstan TV (720p) [Not 24/7]
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KTK.kz",КТК (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTK.kz",КТК  tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/ktk.png"
 https://vs847.vcdn.biz/e7b94206dc6d37f481f721a92a8e0d92_megogo/live/hls/b/700_2490/u_sid/0/o/100256731/rsid/e0173713-cb81-4f6b-bbf8-ddcfbbb7cab6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/46.235.84.201*asn/u_srvc/84416/u_did/web_P1i01uB8a7HN77E2s4Ky8hb7qyEg9hdR/type.live/chunklist-sid6169119090672703365-b2490000.m3u8
 
 #EXTINF:-1 tvg-id="ntk",НТК
@@ -12,15 +12,20 @@ https://vs822.vcdn.biz/768976394b55c2a560ef9ceefeaa98ef_megogo/live/hls/b/700_25
 #EXTINF:0 group-title="National" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар
 https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
 
+#EXTINF:0 group-title="National" tvg-id="toi_duman" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Той Думан
+https://vs832.vcdn.biz/589fce9245254c9c8dfb5c949601df30_megogo/live/hls/b/700_2490/u_sid/0/o/71127651/rsid/f46d0317-fd38-4b4e-9fbf-4219b1f0a73d/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/46.235.84.201*asn/u_srvc/84416/u_did/web_P1i01uB8a7HN77E2s4Ky8hb7qyEg9hdR/type.live/chunklist-sid4969181715956947079-b2490000.m3u8
+
 #EXTINF:0 group-title="National" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24KZ
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="el-arna" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/el-arna.png",El Arna
 https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Gakku", Gakku 
+https://vs832.vcdn.biz/4892457cf635d333b24e03e62aca757d_megogo/live/hls/b/700_2490/u_sid/0/o/71127611/rsid/f1ae1565-c8ae-4c2f-b9ee-5bf523070e18/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/46.235.84.201*asn/u_srvc/84416/u_did/web_P1i01uB8a7HN77E2s4Ky8hb7qyEg9hdR/type.live/chunklist-sid2099842682225361512-b700000.m3u8
+
 #EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
 https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
-
 
 #EXTINF:0 group-title="National" tvg-id="7kanal-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
 https://stream.tv7.kz/hls/stream.m3u8
@@ -53,5 +58,4 @@ https://streams.qazcdn.net/live2/UDeOPAomGH/playlist.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-id="start-turan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/start-turan.png",Start Turan
 https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
-
 
