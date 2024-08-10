@@ -70,8 +70,6 @@ https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
 #EXTINF:0 group-title="Funny" tvg-id="kvn" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/kvn.png",КВН
 https://a5.pokaz.me/y6QGbaOVGJnfzamqFrVB6g/598/1723309028/index.m3u8
 
-#EXTINF:0 group-title="Man" tvg-id="guns" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/guns.png",Оружие
-https://edge03-alm.beetv.kz/bpk-token/2an@3tkvkmpykvkrn20feezz4vkvyo5ukvc13jrvr0da/btv/SWM/oruzhie/oruzhie_384p_1000kbps.m3u8
 
 #EXTINF:0 group-title="Env" tvg-id="bober" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/bober.png",Бобёр
 https://a5.pokaz.me/Z3Z6NiSgDkpSkEUBLjqAzg/189/1723310311/index.m3u8
