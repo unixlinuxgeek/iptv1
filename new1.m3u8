@@ -55,10 +55,14 @@ https://streams.qazcdn.net/live2/1kQsACxNuz/playlist.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="insport-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/insport-kz.png",InSport
 https://streams.qazcdn.net/live2/cHh5P7hZFJ/playlist.m3u8
 
+#EXTINF:0 group-title="Sport" tvg-id="insport-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/insport-kz.png",InSport
+https://a5.pokaz.me/lKmGO6npLXze6Qjyz9Ahjw/235/1723304258/index.m3u8
+
+
 
 #EXTINF:0 group-title="Sport" tvg-id="inhockey-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/inhockey-kz.png",InHockey
 https://streams.qazcdn.net/live2/UDeOPAomGH/playlist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="start-turan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/start-turan.png",Start Turan
+#EXTINF:0 group-title="StartTuran" tvg-id="start-turan" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/start-turan.png",StartTuran
 https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
 
