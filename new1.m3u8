@@ -65,3 +65,11 @@ https://streams.qazcdn.net/live2/UDeOPAomGH/playlist.m3u8
 #EXTINF:0 group-title="StartTuran" tvg-id="start-turan" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/start-turan.png",StartTuran
 https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
 
+#EXTINF:0 group-title="Pobeda" tvg-id="pobeda" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/pobeda.png",Победа
+
+#EXTINF:0 group-title="Funny" tvg-id="kvn" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/kvn.png",КВН
+https://a5.pokaz.me/y6QGbaOVGJnfzamqFrVB6g/598/1723309028/index.m3u8
+
+
+
+
