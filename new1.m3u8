@@ -6,9 +6,6 @@ https://edge02-alm.beetv.kz/bpk-token/2an@h0v5ujj0x4tgfg0eaapmnl5jtsro3hnkhygedt
 #EXTINF:-1 tvg-id="Qazaqstan.kz",Qazaqstan TV (720p) [Not 24/7]
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Евразия",Eurasia
-https://edge02-alm.beetv.kz/bpk-token/2an@lcwz0fenyglxaqqah00u3mtvlqsqnwoblafcn5aa/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz_576p_2000kbps.m3u8
-
 #EXTINF:-1 tvg-id="KTK.kz",КТК
 https://vs847.vcdn.biz/e7b94206dc6d37f481f721a92a8e0d92_megogo/live/hls/b/700_2490/u_sid/0/o/100256731/rsid/e0173713-cb81-4f6b-bbf8-ddcfbbb7cab6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/46.235.84.201*asn/u_srvc/84416/u_did/web_P1i01uB8a7HN77E2s4Ky8hb7qyEg9hdR/type.live/chunklist-sid6169119090672703365-b2490000.m3u8
 
@@ -30,8 +27,6 @@ https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
 #EXTINF:-1 tvg-id="Gakku", Gakku 
 https://vs832.vcdn.biz/4892457cf635d333b24e03e62aca757d_megogo/live/hls/b/700_2490/u_sid/0/o/71127611/rsid/f1ae1565-c8ae-4c2f-b9ee-5bf523070e18/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/46.235.84.201*asn/u_srvc/84416/u_did/web_P1i01uB8a7HN77E2s4Ky8hb7qyEg9hdR/type.live/chunklist-sid2099842682225361512-b700000.m3u8
 
-#EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
-https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="7kanal-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
 https://stream.tv7.kz/hls/stream.m3u8
@@ -55,14 +50,8 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazsport.png",QazSport 3
 https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="sport-plus-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/sport-plus-kz.png",Sport Plus Qazaqstan
-https://streams.qazcdn.net/live2/1kQsACxNuz/playlist.m3u8
-
 #EXTINF:0 group-title="Films" tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/insport.png",ИнСпорт
 https://streams.qazcdn.net/live2/cHh5P7hZFJ/playlist.m3u8
-
-#EXTINF:0 group-title="Films" tvg-id="zol-col" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/zol-col.png",Золотая Коллекция
-https://a5.pokaz.me/lKmGO6npLXze6Qjyz9Ahjw/235/1723304258/index.m3u8
 
 
 #EXTINF:0 group-title="Sport" tvg-id="inhockey-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/inhockey-kz.png",InHockey
@@ -71,17 +60,10 @@ https://streams.qazcdn.net/live2/UDeOPAomGH/playlist.m3u8
 #EXTINF:0 group-title="StartTuran" tvg-id="start-turan" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/start-turan.png",StartTuran
 https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
 
-#EXTINF:0 group-title="Pobeda" tvg-id="pobeda" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/pobeda.png",Победа
-
-#EXTINF:0 group-title="Funny" tvg-id="kvn" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/kvn.png",КВН
-https://a5.pokaz.me/y6QGbaOVGJnfzamqFrVB6g/598/1723309028/index.m3u8
 
 
-#EXTINF:0 group-title="Env" tvg-id="bober" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/bober.png",Бобёр
-https://a5.pokaz.me/Z3Z6NiSgDkpSkEUBLjqAzg/189/1723310311/index.m3u8
 
-#EXTINF:0 group-title="Fight" tvg-id="boec" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/boec.png",Боец
-https://a5.pokaz.me/F3ZWspZJTKmRXjl2LL-KUg/148/1723310980/index.m3u8
+
 
 
 
